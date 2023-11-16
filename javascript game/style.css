@@ -1,0 +1,9 @@
+#button{
+    object-fit: contain;
+}
+.img{
+    width: 10;
+    object-fit: contain;
+    margin-top: auto;
+    margin-bottom: auto;
+}
